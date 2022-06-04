@@ -21,4 +21,14 @@ the code in the process.
     <td>Password Generator</td>
     <td>Strings Library, SpinBox Library, Tkinter library</td>
   </tr>
+  <tr>
+    <td>3</td>
+    <td>Keyboard Jump Game</td>
+    <td> PyGame Library, Tkinter library</td>
+    <tr>
+    <td>4</td>
+    <td>Alarm Clock</td>
+    <td>Strings Library, Datetime Library, Tkinter library</td>
+  </tr>
+  </tr>
 </table>
